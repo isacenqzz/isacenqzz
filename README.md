@@ -1,16 +1,38 @@
-## Hi there 👋
+# Hi, I'm Isac 👋
 
-<!--
-**isacenqzz/isacenqzz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Data Analyst focused on fraud, risk, data quality, and relationship analysis.
 
-Here are some ideas to get you started:
+I work mainly with:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- SQL
+- Python
+- SAS
+- Excel
+- Power BI
+- NetworkX
+
+## What I'm interested in
+
+- Fraud and risk analytics
+- Data quality and validation
+- Banking data
+- Relationship and network analysis
+- Automation and reporting
+
+## Featured Project
+
+### Fraud Network Analysis
+
+Synthetic banking dataset and graph-based analysis for identifying potential fraud networks through shared customer information.
+
+[View project](https://github.com/isacenqzz/Fraud-Network-Analysis)
+
+## Languages
+
+- Spanish — Native
+- English — C1
+- French — A2/B1
+
+## Connect with me
+
+[LinkedIn](linkedin.com/in/isac-enriquez-7073a3366/)
