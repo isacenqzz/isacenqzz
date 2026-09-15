@@ -35,4 +35,4 @@ Synthetic banking dataset and graph-based analysis for identifying potential fra
 
 ## Connect with me
 
-[LinkedIn](linkedin.com/in/isac-enriquez-7073a3366)
+[LinkedIn](https://www.linkedin.com/in/isac-enriquez-7073a3366/)
